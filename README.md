@@ -6,7 +6,7 @@ A light weight tool for creating infinite SVG backgrounds.
 
 1. Clone this repo and open `background.svg`
 
-2. Edit the CSS styles at the of `background.svg` as desired
+2. Edit the CSS styles at the top of `background.svg` as desired
 
 3. See `index.html` as an example or add `background: url(background.svg)` to the body of your website
 
