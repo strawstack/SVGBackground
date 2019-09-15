@@ -25,3 +25,7 @@ With a few simple changes, you can make the patterns below. Use `css transitions
 ![](./collatz.png)
 
 ![](./collatz_even_odd.png)
+
+# Advanced
+
+`build.js` can be run with node to generate the svg document seen inside `background.svg`. Using `build.js` allows one to add arbitrary classes to the `rectangles` in the SVG, which could then be styled in the same way as the currently existing classes.
