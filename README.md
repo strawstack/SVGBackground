@@ -12,7 +12,7 @@ A light weight tool for creating infinite SVG backgrounds.
 
 # Live Demo
 
-Click [here](https://strawstack.github.io/SVG_Background/) for a live demo
+[View Live Demo](https://strawstack.github.io/SVG_Background/)
 
 # Example Patterns
 
