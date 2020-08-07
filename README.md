@@ -18,7 +18,7 @@ A light weight tool for creating infinite SVG backgrounds.
 
 With a few simple changes, you can make the patterns below. Use `css transitions` or `animations` for an even greater effect!
 
-![](./primes.png)
+![](./screenshot.png)
 
 ![](./even_odd.png)
 
